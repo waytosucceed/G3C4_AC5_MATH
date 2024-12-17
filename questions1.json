@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": "John found bundles of bananas grouped in 5s on the fruit stand. Skip count backwards by 5s from 60 and fill in the missing numbers.",
+    "options":["60","","",""],
+    "answers": ["60","55","50","45"]
+  },
+  {
+    "questionNo": 2,
+    "question": " In the snacks aisle, Maddy noticed chips packets displayed in rows. Skip count backwards by 5s from 78 and fill in the missing numbers.",
+    "options":["78","","",""],
+    "answers": ["78","73","68","63"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " John spotted boxes of tea bags arranged in stacks on a shelf. Skip count backwards by 5s from 92 and fill in the missing numbers.",
+    "options":["92","","",""],
+    "answers": ["92","87","82","77"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Maddy counted loaves of bread lined up in groups in the bakery section. Count backwards by 5s from 105 and fill in the missing numbers.",
+    "options":["105","","",""],
+    "answers": ["105","100","95","90"]
+  },
+  {
+    "questionNo": 5,
+    "question": " John saw crates of eggs arranged in the dairy section. Skip count backwards by 5s from 141 and fill in the missing numbers.",
+    "options":["141","","",""],
+    "answers": ["141","136","131","126"]
+  }
+]
